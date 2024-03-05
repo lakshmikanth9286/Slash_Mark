@@ -14,21 +14,21 @@ We need to `predict` whether the customer will `churn`, `stay` or `join` the com
 
 ## 👀 Screenshots
 
-<img src = "/assets/1.png">
-<img src = "/assets/2.png">
-<img src = "/assets/3.png">
-<img src = "/assets/4.png">
+<img src = "https://github.com/lakshmikanth9286/Slash_Mark/blob/main/Customer-Churn-Prediction/assets/Picture1.png">
+<img src = "https://github.com/lakshmikanth9286/Slash_Mark/blob/main/Customer-Churn-Prediction/assets/Picture2.png">
+<img src = "https://github.com/lakshmikanth9286/Slash_Mark/blob/main/Customer-Churn-Prediction/assets/Picture3.png">
+<img src = "https://github.com/lakshmikanth9286/Slash_Mark/blob/main/Customer-Churn-Prediction/assets/Picture4.png">
 
 
 ## 📓 Overview
 
 | Machine Learning Models Applied            | Accuracy |
 | ----------------- | ------------------------------------------------------------------ |
-| Random Forest | 78.11% |
+| Random Forest | 79.11% |
 | Logistic Regression | 78.28% |
 | Naive Bayes Gaussian | 36.77% |
-| Decision Tree | 77.29% |
-| XGB_Classifier | 80.86% |
+| Decision Tree | 77.68% |
+| XGB_Classifier | 82.00% |
 
 <br>
 
@@ -41,11 +41,3 @@ The ability to predict churn before it happens allows businesses to take proacti
 ```
 
 The advantage of calculating a company's churn rate is that it provides clarity on how well the business is retaining customers, which is a reflection on the quality of the service the business is providing, as well as its usefulness.
-
-<br>
-
-<a href='https://www.kaggle.com/code/hiimanshuagarwal/customer-churn-prediction' target="_blank"><img alt='Kaggle' src='https://img.shields.io/badge/Kaggle-100000?style=for-the-badge&logo=Kaggle&logoColor=20beff&labelColor=black&color=FFFFFF'/></a>
-
-
-
-</p> 
