@@ -14,7 +14,7 @@ We need to `predict` whether the customer will `churn`, `stay` or `join` the com
 
 ## 👀 Screenshots
 
-<img src = "/assets/1.png">
+<img src = "Customer-Churn-Prediction/assets/1.png">
 <img src = "/assets/2.png">
 <img src = "/assets/3.png">
 <img src = "/assets/4.png">
