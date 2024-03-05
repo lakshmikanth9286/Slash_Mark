@@ -28,7 +28,7 @@ We need to `predict` whether the customer will `churn`, `stay` or `join` the com
 | Logistic Regression | 78.28% |
 | Naive Bayes Gaussian | 36.77% |
 | Decision Tree | 77.68% |
-| XGB_Classifier | 82.00% |
+| XGB_Classifier | 80.06% |
 
 <br>
 
