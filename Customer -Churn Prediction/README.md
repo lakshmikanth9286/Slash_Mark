@@ -12,13 +12,6 @@ The `Zip Code Population` table contains complimentary information on the estima
 We need to `predict` whether the customer will `churn`, `stay` or `join` the company based on the parameters of the dataset.
 <br><br>
 
-## 👀 Screenshots
-
-<img src = "(https://github.com/lakshmikanth9286/Slash_Mark/blob/main/Customer%20-Churn%20Prediction/assets/Picture1.png)">
-<img src = "(https://github.com/lakshmikanth9286/Slash_Mark/blob/main/Customer%20-Churn%20Prediction/assets/Picture2.png)">
-<img src = "(https://github.com/lakshmikanth9286/Slash_Mark/blob/main/Customer%20-Churn%20Prediction/assets/Picture3.png)">
-<img src = "(https://github.com/lakshmikanth9286/Slash_Mark/blob/main/Customer%20-Churn%20Prediction/assets/Picture4.png)">
-
 
 ## 📓 Overview
 
