@@ -11,7 +11,7 @@ The primary goal of this project is to develop a reliable and accurate system fo
 
 ## Getting Started
 To get started with this project, follow these steps:
-1. Clone the repository: `git clone https://github.com/yourusername/Diabetic-Retinopathy-Detection.git`
+1. Clone the repository: `git clone https://github.com/lakshmikanth9286/Slash_Mark/tree/main/Diabetic%20Retinopathy%20Detection`
 2. Navigate to the project directory: `cd Diabetic-Retinopathy-Detection`
 3. Download the dataset from the provided Kaggle link and place it in the `data/` directory.
 4. Set up your Python environment with the required dependencies listed in `requirements.txt`.
